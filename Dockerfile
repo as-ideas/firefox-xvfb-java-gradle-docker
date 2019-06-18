@@ -1,5 +1,5 @@
 FROM marcellodesales/gradle-java
-MAINTAINER Marcello de Sales <marcello.desales@gmail.com>
+MAINTAINER AS Ideas <hello@asideas.de>
 
 # Setup Firefox and the fonts
 RUN \
